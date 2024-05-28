@@ -1,9 +1,4 @@
 # Currency Converter
-
-Sure, here's the translation:
-
----
-
 This is a currency converter project developed as part of a challenge in the Oracle Next Education course in partnership with Alura. The project allows conversion between different currencies, using the ExchangeRate API to obtain exchange rates and Google's GSON library for JSON manipulation.
 
 **Features**
