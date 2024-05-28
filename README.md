@@ -13,7 +13,7 @@ This is a currency converter project developed as part of a challenge in the Ora
 
 ---
 
-## Exemplos de Uso
+## Examples
 
 ```plaintext
 Enter an option
