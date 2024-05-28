@@ -1,19 +1,22 @@
 # Currency Converter
 
-Este é um projeto de conversor de moedas desenvolvido como parte de um desafio no curso Oracle Next Education em parceria com a Alura. O projeto permite a conversão de diferentes moedas, utilizando a API da ExchangeRate para obter as taxas de câmbio e a biblioteca GSON da Google para manipulação de JSON.
+Sure, here's the translation:
 
-## Funcionalidades
+---
 
-- Conversão entre várias moedas
-- Interface simples de uso
-- Utilização da API ExchangeRate para obter taxas de câmbio atualizadas
+This is a currency converter project developed as part of a challenge in the Oracle Next Education course in partnership with Alura. The project allows conversion between different currencies, using the ExchangeRate API to obtain exchange rates and Google's GSON library for JSON manipulation.
 
-## Tecnologias Utilizadas
+**Features**
+- Conversion between various currencies
+- Simple user interface
+- Use of the ExchangeRate API to obtain updated exchange rates
 
-- **Java**: Linguagem de programação principal do projeto.
-- **GSON**: Biblioteca da Google para manipulação de JSON.
-- **ExchangeRate API**: API usada para obter as taxas de câmbio.
+**Technologies Used**
+- Java: Primary programming language of the project.
+- GSON: Google's library for JSON manipulation.
+- ExchangeRate API: API used to obtain exchange rates.
 
+---
 
 ## Exemplos de Uso
 
